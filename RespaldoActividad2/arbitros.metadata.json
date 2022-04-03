@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"04b59279e3d54d5da2f756e21b8f491c","collectionName":"arbitros","type":"collection"}
